@@ -1,2 +1,19 @@
-
+table,
+td{
+    border: 1px solid;
+}
+th{
+    border: 1px solid;
+    text-align: left;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+thead{
+    text-align: left;
+}
+tbody{
+    text-align: right;
+}
 /* Your CSS Code here. */
